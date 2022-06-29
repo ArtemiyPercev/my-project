@@ -1,0 +1,36 @@
+[33mcommit eb1dcb6a6020bce050286caef947f4c635271e3d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 86c91c7 3760970
+Author: ArtemiyPercev <artemiypercev@gmail.com>
+Date:   Wed Jun 29 00:15:36 2022 +0300
+
+    Merging new-feature into main
+
+[33mcommit 86c91c79c24855ade80051d224e350210e6cc8c9[m
+Author: ArtemiyPercev <artemiypercev@gmail.com>
+Date:   Wed Jun 29 00:10:49 2022 +0300
+
+    Changed made in the main branch
+
+[33mcommit 37609706dc9dac9cbdeceffea56ddabddacfbecb[m
+Author: ArtemiyPercev <artemiypercev@gmail.com>
+Date:   Wed Jun 29 00:04:48 2022 +0300
+
+    Modified fourth file in the feature branch
+
+[33mcommit 206bf24b8b8d4db9500863a4df25e9f083664150[m
+Author: ArtemiyPercev <artemiypercev@gmail.com>
+Date:   Wed Jun 29 00:00:22 2022 +0300
+
+    New file in the feature branch
+
+[33mcommit e366b2a07a6e2e6591b5db14d324e893ac33ea1e[m
+Author: ArtemiyPercev <artemiypercev@gmail.com>
+Date:   Tue Jun 28 17:49:45 2022 +0300
+
+    Second commit
+
+[33mcommit 3e9e8df6083713863de649272bd1713f9c6bdfd2[m
+Author: ArtemiyPercev <artemiypercev@gmail.com>
+Date:   Tue Jun 28 15:14:54 2022 +0300
+
+    first commit
